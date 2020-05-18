@@ -10,3 +10,5 @@ The program has 3 arguments: an input image, a configuration file that provides 
 of the same size of the input image such that each pixel is either white (foreground) or black (background).
 
 Example: ./seg simple.png config.txt result.png
+
+Reference : Project Description of project 1 of COMP 6651 – Winter 2018 by Dr. Tiberiu Popa
